@@ -1,0 +1,61 @@
+.navstick{
+ position:fixed;
+ background-color:black;
+ width:100%;
+ z-index:1;   
+}
+.titlebox{
+    margin-left:10%;
+    margin-top:10%;
+}
+.cardbox{
+    display:flex;
+    flex-wrap:wrap;
+    margin-left:10%;
+}
+.card{
+    margin-right:5%;
+    margin-top:1%;
+    margin-bottom:5%;
+}
+.btn{
+    padding:5px 15px 5px 15px;
+    cursor:pointer;
+    border-radius:5px;
+    background-color:rgb(60, 60, 225);
+}
+.skillbox{
+    display:flex;
+    margin-left:10%;
+    flex-wrap:wrap;
+}
+
+.cbox{
+    margin-left:10%;
+    margin-top:2%;
+    width:45%;
+}
+.c-text{
+      font-size:20px;
+      font-weight:bold;
+      color:white;
+      margin-top:2%;
+}
+.c-item{
+height:17rem;
+}
+.myimg{
+    border-radius:10px;
+}
+.c-img{
+height:100%;
+width:100%;
+object-fit:cover;
+}
+fbox{
+    margin-left:25px;
+}
+.ftext{
+    margin-left:20%;
+    margin-top:1%;
+}
